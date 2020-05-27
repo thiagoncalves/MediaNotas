@@ -1,0 +1,6 @@
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Media\bin\Debug\Media.exe.config
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Media\bin\Debug\Media.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Media\bin\Debug\Media.pdb
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Media\obj\Debug\Media.csprojAssemblyReference.cache
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Media\obj\Debug\Media.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Media\obj\Debug\Media.pdb
